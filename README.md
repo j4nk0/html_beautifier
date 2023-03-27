@@ -1,0 +1,26 @@
+# html_beautifier
+
+Realizujte program, který opticky pěkně zformátuje zdrojový kód zapsaný v HTML.
+
+Na vstupu je soubor se zdrojovým kódem HTML stránky,
+
+výstupem je ekvivalentní kód,
+
+jehož HTML elementy jsou odsazeny podle zanoření.
+
+
+Program dále bude kontrolovat vnořování tagů (zda se nekříží apod.),
+
+platnost tagů a platnost atributů u jednotlivých tagů.
+
+Pokud budou při kontrole zjištěny chyby,
+
+budou zobrazeny uživateli včetně lokalizace (číslo řádku).
+
+
+Styl a parametry formátování kódu půjdou změnit
+
+konfiguračním souborem (odsazení, max. délka řádku atd.),
+
+viz nastavení formátování v NetBeans nebo vaše oblíbené IDE.
+
